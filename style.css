@@ -148,3 +148,19 @@ body {
 .winner {
     animation: rainbow 4s infinite linear;
 }
+
+.attribution {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+  
+    font-size: 11px;
+    text-align: center;
+    color: #000
+  }
+  
+  .attribution a {
+    color: hsl(32, 100%, 50%);
+  }
